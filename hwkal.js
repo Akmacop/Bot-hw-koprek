@@ -22,26 +22,26 @@ global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%
 global.email = 'denyp857@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'HW MODS WA' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'ꪶ 𝐌𝐈𝐊𝐀𝐙𝐎 𝐇𝐄𝐑𝐄 丰' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'ꪶ 𝐌𝐈𝐊𝐀𝐙𝐎 𝐇𝐄𝐑𝐄 丰' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'ꪶ 𝐌𝐈𝐊𝐀𝐙𝐎 𝐇𝐄𝐑𝐄 丰' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281214281312']
-global.premium = ['6281214281312']
-global.packname = 'HW MODS WA'
-global.ownerr = ['HW MODS WA']
-global.author = 'HW MODS WA'
+global.owner = ['6287711367388']
+global.premium = ['6287711367388']
+global.packname = 'Mikazo 丰'
+global.ownerr = ['ꪶ 𝐌𝐈𝐊𝐀𝐙𝐎 𝐇𝐄𝐑𝐄 丰']
+global.author = 'Private'
 global.sessionName = './sessionye/haikal'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    nsfw: '*Fitur NSFW tidak diaktifkan, chat admin grup supaya diaktifkan*_',
+    nsfw: '*Fitur NSFW tidak diaktifkan Kontol, chat admin grup supaya diaktifkan*_',
     wait: '*Loading... Sabar Wibu*_',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
-    verif: 'Hai Kakak 👋 Silahkan Verifikasi Terlebih Dahulu Agar Bisa Menggunakan Bot Hw Mods',
+    verif: 'Hai Kontol 👋 Silahkan Verifikasi Dahulu Ya Ngentod Agar Bisa Menggunakan Bot Mikazo 丰',
 }
 //=================================================//
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
